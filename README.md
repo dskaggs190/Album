@@ -13,3 +13,4 @@
 <p>Cliff Burton – Bass, Backing Vocals</p>
 <p>Lars Ulrich – Drums</p>
 </body>
+</html>
