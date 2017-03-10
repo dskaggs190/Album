@@ -14,7 +14,6 @@
 </ul>
 <table border="1" width="100%">
 <caption>Tracks</caption>
-
 <tr bgcolor="grey">
 <th>Track #</th>
 <th>Track Title</th>
