@@ -17,6 +17,6 @@
 
 <tr bgcolor="grey">
 <th>Track #</th>
-<th colespan="2">Track Title</th>
-<th colespan="3">Track Length</th>
+<th>Track Title</th>
+<th>Track Length</th>
 </tr>
