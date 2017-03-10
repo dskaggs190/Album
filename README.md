@@ -12,3 +12,11 @@
 <li>Cliff Burton – Bass, Backing Vocals</li>
 <li>Lars Ulrich – Drums</li>
 </ul>
+<table border="1" width="100%">
+<caption>Tracks</caption>
+
+<tr bgcolor="grey">
+<th>Track #</th>
+<th colespan="2">Track Title</th>
+<th colespan="3">Track Length</th>
+</tr>
